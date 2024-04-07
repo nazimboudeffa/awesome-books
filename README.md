@@ -4,3 +4,4 @@
 - https://github.com/raganwald/javascript-allonge
 - https://www.goodreads.com/search?q=javascript
 - https://www.packtpub.com/search?query=javascript
+- https://www.oreilly.com/search/?q=javascript

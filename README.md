@@ -11,3 +11,4 @@ We first start with JS
 - https://www.goodreads.com/search?q=javascript
 - https://www.packtpub.com/search?query=javascript
 - https://www.oreilly.com/search/?q=javascript
+- https://www.editions-eni.fr/recherche?exp=javascript [FR]

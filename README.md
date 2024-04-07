@@ -1,4 +1,10 @@
-# JavaScript
+# Awesome books
+
+Do some search on the learning platforms
+
+We first start with JS
+
+## JavaScript
 
 - https://github.com/getify/You-Dont-Know-JS
 - https://github.com/raganwald/javascript-allonge
